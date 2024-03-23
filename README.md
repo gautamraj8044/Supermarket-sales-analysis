@@ -1,4 +1,4 @@
-**Project Title: Retail Sales Analysis**
+**Project Title: Supermarket Sales Analysis**
 
 **Description:**
 This project focuses on analyzing retail sales data using Python programming and data visualization techniques. The dataset comprises over a thousand invoices, and the analysis aims to uncover insights into customer behavior, purchase preferences, and sales trends based on various factors such as location, gender, payment methods, and product categories.
