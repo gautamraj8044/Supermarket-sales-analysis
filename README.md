@@ -17,7 +17,7 @@ This project focuses on analyzing retail sales data using Python programming and
 
 **Instructions:**
 1. Clone the repository to your local machine.
-2. Open `sales_analysis.ipynb` in a Jupyter Notebook environment.
+2. Open `supermarket.ipynb` in a Jupyter Notebook environment.
 3. Run each cell sequentially to execute the Python code and generate visualizations.
 4. Review the analysis findings and interpretations provided in the notebook.
 5. Customize the analysis according to specific business requirements or datasets.
