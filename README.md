@@ -11,8 +11,8 @@ This project focuses on analyzing retail sales data using Python programming and
 - Interpretation of insights to drive informed decision-making in retail environments
 
 **Files Included:**
-- `sales_data.csv`: Dataset containing retail sales information
-- `sales_analysis.ipynb`: Jupyter Notebook file containing Python code for data analysis
+- `sales.csv`: Dataset containing retail sales information
+- `supermarket.ipynb`: Jupyter Notebook file containing Python code for data analysis
 - `README.md`: Markdown file providing project overview and instructions
 
 **Instructions:**
